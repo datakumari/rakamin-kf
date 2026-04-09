@@ -1,19 +1,19 @@
-#cek tabel utama final_transaction
+--cek tabel utama final_transaction
 select *
 from `rakamin-kimia-farma-491902.kinerja_kf_20202023.kf_final_transaction`
 
-#cek tabel utama kantor_cabang
+--cek tabel utama kantor_cabang
 SELECT * from `rakamin-kimia-farma-491902.kinerja_kf_20202023.kf_kantor_cabang`
 
-#cek tabel utama inventory
+--cek tabel utama inventory
 select *
 from `rakamin-kimia-farma-491902.kinerja_kf_20202023.kf_inventory`
 
-#cek tabel utama product
+--cek tabel utama product
 select *
 from `rakamin-kimia-farma-491902.kinerja_kf_20202023.kf_product`
 
-#join dengan data yang diperlukan
+--join dengan data yang diperlukan
 SELECT 
   t.transaction_id,
   t.date,
