@@ -1,4 +1,4 @@
 # rakamin-kf
-File ini terdiri dari sintaks SQL yang dibuat melalui BigQuery dengan menggunakan data Kimia Farma tahun 2020-2023 untuk menggabungkan beberapa file menjadi tabel analisa
+This file contains SQL syntax generated using BigQuery with Kimia Farma data from 2020 to 2023, which was processed into an analysis table.
 
-Hasil analisa dapat dilihat melalui link https://lookerstudio.google.com/s/kZEhagiiZBc
+You can view the analysis results at https://lookerstudio.google.com/s/kZEhagiiZBc.
